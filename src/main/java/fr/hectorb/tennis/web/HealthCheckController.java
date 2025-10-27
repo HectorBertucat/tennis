@@ -1,4 +1,4 @@
-package fr.hectorb.tennis.rest;
+package fr.hectorb.tennis.web;
 
 import fr.hectorb.tennis.HealthCheck;
 import fr.hectorb.tennis.service.HealthCheckService;
